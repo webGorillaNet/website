@@ -1,0 +1,2 @@
+2023-06-20T17:50:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 10379264 bytes) in C:\Users\seanr\OneDrive\Documents\MyDocuments\VSCode\gorillawebdev_com\wp-includes\functions.php on line 4419
+
