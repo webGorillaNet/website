@@ -703,6 +703,12 @@
           margin-bottom: 2rem;
         }
       }
+      @media all and (max-width: 768px) {
+        .purple-focus br {
+          display:none;
+        }
+      }
+
       @media all and (max-width: 1024px) {
         :root {
           --global-content-boxed-padding: 2rem;
@@ -3711,7 +3717,7 @@
                               </div>
 
                               <p
-                                class="has-text-align-center has-theme-palette-1-color has-text-color has-medium-font-size"
+                                class="purple-focus has-text-align-center has-theme-palette-1-color has-text-color has-medium-font-size"
                                 style="
                                   color: #ffd33d;
                                   text-shadow: 2px 2px #000000;
